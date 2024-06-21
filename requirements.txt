@@ -1,0 +1,9 @@
+streamlit
+faiss
+numpy
+pandas
+cohere
+google_play_scraper
+dotenv
+os
+datetime
