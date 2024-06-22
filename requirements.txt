@@ -1,3 +1,7 @@
-streamlit
-faiss
-python
+pip
+numpy
+pandas
+faiss-cpu
+cohere
+google_play_scraper
+python-dotenv
